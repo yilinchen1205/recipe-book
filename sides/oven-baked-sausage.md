@@ -6,3 +6,4 @@
 ## Instructions
 1. Put the sausage on a baking tray
 2. Bake for several minutes
+3. Serve while hot
